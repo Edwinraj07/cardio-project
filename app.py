@@ -47,7 +47,7 @@ st.sidebar.info(DISCLAIMER)
 
 # ------------------------------------------------------------------ HOME
 if page == "🏠 Home":
-    st.title("🫀 AI-Based Disease Prediction & Drug Information System")
+    st.title("🫀 Cardiovascular Disease Prediction & Drug Information System")
     st.write("Predicts **cardiovascular disease risk** from patient data using Machine "
              "Learning, explains the result, shows data analytics and offers a medicine "
              "information lookup.")
