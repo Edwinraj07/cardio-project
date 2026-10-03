@@ -339,19 +339,3 @@ Manonmaniam Sundaranar University
 📄 License
 
 This project is developed for academic and educational purposes.
-
-
-## 2. Save pannunga
-
-VS Code-la:
-
-**`README.md` → existing content delete → above content paste → `Cmd + S`**
-
----
-
-## 3. GitHub-ku update panna
-
-Terminal-la **exact-a** இந்த commands:
-
-```bash
-git status
